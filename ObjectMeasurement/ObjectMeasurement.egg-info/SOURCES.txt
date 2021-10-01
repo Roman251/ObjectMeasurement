@@ -1,0 +1,8 @@
+README.md
+setup.py
+ObjectMeasurement/__init__.py
+ObjectMeasurement.egg-info/PKG-INFO
+ObjectMeasurement.egg-info/SOURCES.txt
+ObjectMeasurement.egg-info/dependency_links.txt
+ObjectMeasurement.egg-info/requires.txt
+ObjectMeasurement.egg-info/top_level.txt
